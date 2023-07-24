@@ -53,7 +53,7 @@ const NavBar = () => {
             //  <img className='image' style={{fontSize:'2rem'}} src={img} alt="" srcset="" /></Nav.Link>? <ReactTooltip /> :''
       
 
-
+              
 
 
             }
