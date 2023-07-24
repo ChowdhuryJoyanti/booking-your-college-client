@@ -1,0 +1,247 @@
+[
+    {
+      "college": {
+        "id":"1",
+        "image": "https://i.ibb.co/8cZ60CY/college-9.jpg",
+        "name": "College 1",
+        "admission": {
+          "eligibility": "Minimum 75% in High School",
+          "application_deadline": "2023-11-30",
+          "scholarships_available": true
+        },
+        "dates": {
+          "semester_starts": [
+            "2024-01-10",
+            "2024-07-25"
+          ],
+          "holidays": {
+            "spring": "2024-03-01 to 2024-03-15",
+            "summer": "2024-06-01 to 2024-07-01"
+          }
+        },
+        "events": {
+          "upcoming": [
+            {
+              "name": "Orientation Day 2024",
+              "date": "2024-01-05",
+              "location": "College Campus"
+            },
+            {
+              "name": "Annual Cultural Fest",
+              "date": "2024-04-20",
+              "location": "College Grounds"
+            }
+          ],
+          "past": [
+            {
+              "name": "Tech Expo 2023",
+              "date": "2023-11-15",
+              "location": "College Auditorium"
+            },
+            {
+              "name": "Sports Gala 2023",
+              "date": "2023-12-10",
+              "location": "College Sports Complex"
+            }
+          ]
+        },
+        "research_history": {
+          "total_research_projects": 92,
+          "ongoing_projects": 8,
+          "published_papers": 178,
+          "research_centers": [
+            "Center for Artificial Intelligence",
+            "Institute of Environmental Studies"
+          ]
+        },
+        "sports": {
+          "teams": [
+            {
+              "name": "College 1 Football Team",
+              "sport": "Football",
+              "coach": "Michael Johnson",
+              "home_ground": "College Football Field",
+              "current_ranking": 2
+            },
+            {
+              "name": "College 1 Volleyball Team",
+              "sport": "Volleyball",
+              "coach": "Emily Williams",
+              "home_ground": "College Volleyball Court",
+              "current_ranking": 5
+            }
+          ],
+          "facilities": [
+            "College Football Field",
+            "College Volleyball Court",
+            "Tennis Courts",
+            "Swimming Pool"
+          ]
+        }
+      }
+    },
+    {
+        "college": {
+          "id":"2",
+          "image": "https://i.ibb.co/BfS2Jn5/college-6.jpg",
+          "name": "College 2",
+          "admission": {
+            "eligibility": "Minimum 80% in High School",
+            "application_deadline": "2023-12-15",
+            "scholarships_available": true
+          },
+          "dates": {
+            "semester_starts": [
+              "2024-02-01",
+              "2024-08-15"
+            ],
+            "holidays": {
+              "spring": "2024-03-10 to 2024-03-25",
+              "summer": "2024-06-10 to 2024-07-10"
+            }
+          },
+          "events": {
+            "upcoming": [
+              {
+                "name": "Freshman Welcome Party",
+                "date": "2024-02-10",
+                "location": "College Campus"
+              },
+              {
+                "name": "Annual Sports Meet",
+                "date": "2024-05-05",
+                "location": "College Sports Complex"
+              }
+            ],
+            "past": [
+              {
+                "name": "Tech Symposium 2023",
+                "date": "2023-11-20",
+                "location": "College Auditorium"
+              },
+              {
+                "name": "Cultural Extravaganza 2023",
+                "date": "2023-12-30",
+                "location": "College Grounds"
+              }
+            ]
+          },
+          "research_history": {
+            "total_research_projects": 120,
+            "ongoing_projects": 10,
+            "published_papers": 210,
+            "research_centers": [
+              "Center for Nanotechnology",
+              "Institute of Biomedical Research"
+            ]
+          },
+          "sports": {
+            "teams": [
+              {
+                "name": "College 2 Basketball Team",
+                "sport": "Basketball",
+                "coach": "David Lee",
+                "home_ground": "College Basketball Court",
+                "current_ranking": 1
+              },
+              {
+                "name": "College 2 Soccer Team",
+                "sport": "Soccer",
+                "coach": "Jessica Martinez",
+                "home_ground": "College Soccer Field",
+                "current_ranking": 3
+              }
+            ],
+            "facilities": [
+              "College Basketball Court",
+              "College Soccer Field",
+              "Tennis Courts",
+              "Swimming Pool"
+            ]
+          }
+        }
+      },
+      {
+        "college": {
+          "id":"3",
+          "image": "https://i.ibb.co/yshLVHs/istockphoto-1449603753-612x612.jpg",
+          "name": "College 3",
+          "admission": {
+            "eligibility": "Minimum 65% in High School",
+            "application_deadline": "2023-10-31",
+            "scholarships_available": false
+          },
+          "dates": {
+            "semester_starts": [
+              "2024-01-20",
+              "2024-08-05"
+            ],
+            "holidays": {
+              "spring": "2024-03-05 to 2024-03-20",
+              "summer": "2024-06-05 to 2024-07-05"
+            }
+          },
+          "events": {
+            "upcoming": [
+              {
+                "name": "Freshers' Bash 2024",
+                "date": "2024-02-05",
+                "location": "College Campus"
+              },
+              {
+                "name": "Annual Science Exhibition",
+                "date": "2024-04-15",
+                "location": "College Science Center"
+              }
+            ],
+            "past": [
+              {
+                "name": "Tech Carnival 2023",
+                "date": "2023-11-10",
+                "location": "College Auditorium"
+              },
+              {
+                "name": "Sports Fest 2023",
+                "date": "2023-12-15",
+                "location": "College Sports Complex"
+              }
+            ]
+          },
+          "research_history": {
+            "total_research_projects": 85,
+            "ongoing_projects": 7,
+            "published_papers": 150,
+            "research_centers": [
+              "Center for Renewable Energy",
+              "Institute of Space Studies"
+            ]
+          },
+          "sports": {
+            "teams": [
+              {
+                "name": "College 3 Cricket Team",
+                "sport": "Cricket",
+                "coach": "Andrew Wilson",
+                "home_ground": "College Cricket Ground",
+                "current_ranking": 4
+              },
+              {
+                "name": "College 3 Tennis Team",
+                "sport": "Tennis",
+                "coach": "Sophie Brown",
+                "home_ground": "College Tennis Courts",
+                "current_ranking": 2
+              }
+            ],
+            "facilities": [
+              "College Cricket Ground",
+              "College Tennis Courts",
+              "Gymnasium",
+              "Swimming Pool"
+            ]
+          }
+        }
+      }
+   
+  ]
+  

@@ -1,0 +1,104 @@
+[
+    {
+        "id":"1",
+        "image": "https://i.ibb.co/8cZ60CY/college-9.jpg",
+        "collegeName": "Chittagong College",
+          "admissionEligibility": "Minimum 75% in High School",
+          "applicationDeadline": "2023-11-30",
+          "scholarshipsAvailable": true,
+          "AdmissionDate":" semester_starts from 2024-01-10" ,
+          "upcoming events1":"Orientation Day 2024",
+          "upcoming events2" :  "Annual Cultural Fest",
+          "total_research_projects": 92,
+          "ongoing_projects": 8,
+          "published_papers": 178,
+          "research_centers": "Institute of Environmental Studies",
+          "sportsName": "Football",
+          "coach": "Michael Johnson",
+          "home_ground": "College Football Field",
+          "currentRanking1": 2,
+          "sport2": "Volleyball",
+          "sport2Coach": "Emily Williams",
+          "ground": "College Volleyball Court",
+          "currentRanking": 5
+        },
+
+
+
+    {
+        
+          "id":"2",
+          "image": "https://i.ibb.co/BfS2Jn5/college-6.jpg",
+          "collegeName": "Mohosin College",
+          "admissionEligibility": "Minimum 80% in High School",
+          "applicationDeadline": "2023-12-15",
+          "scholarshipsAvailable": true,
+          "AdmissionDate":" semester_starts from 2024-06-10" ,
+          "upcoming events1":"Freshman Welcome Party",
+          "upcoming events2" :  "Annual Sports Meet",
+          "total_research_projects": 92,
+          "ongoing_projects": 38,
+          "published_papers": 378,
+          "research_centers": "Institute of Biomedical Research",
+          "sportsName":  "Basketball",
+          "coach": "Michael Johnson",
+          "homeGround":"College Basketball Court",
+          "currentRanking1": 2,
+          "sport2":"Soccer",
+          "sport2Coach":"Jessica Martinez",
+          "ground":  "College Soccer Field",
+          "currentRanking": 4,
+            "facilities": [
+              "College Basketball Court",
+              "College Soccer Field",
+              "Tennis Courts",
+              "Swimming Pool"
+            ]
+          
+        
+      },
+      {
+        
+          "id":"3",
+          "image": "https://i.ibb.co/yshLVHs/istockphoto-1449603753-612x612.jpg",
+          "collegeName": "City College",
+          "admissionEligibility": "Minimum 65% in High School",
+          "applicationDeadline": "2023-10-31",
+          "scholarshipsAvailable": true,
+          "AdmissionDate":" semester_starts from 2024-01-20" ,
+          "upcoming events1":"Freshers' Bash 2024",
+          "upcoming events2" :  "Annual Science Exhibition",
+          "total_research_projects": 87,
+          "ongoing_projects": 28,
+          "published_papers": 178,
+          "research_centers":  "Center for Renewable Energy",
+          "sportsName":  "Cricket",
+          "coach": "Andrew Wilson",
+          "homeGround" :"College Cricket Ground",
+          "currentRanking1": 4,
+          "sport2": "Tennis",
+          "sport2Coach": "Sophie Brown",
+          "ground":  "College Tennis Courts",
+          "currentRanking": 3,
+            "facilities": [
+              "College Basketball Court",
+              "College Soccer Field",
+              "Tennis Courts",
+              "Swimming Pool"
+            ]
+          }
+
+
+
+
+
+
+
+
+
+        
+      
+        
+        
+  ]
+  
